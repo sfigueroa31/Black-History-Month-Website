@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www2.eecs.berkeley.edu/Faculty/Photos/Fullsize/rabebe.jpg); /*The image used*/
+   
+    background-repeat: no-repeat; /*Do not repeat the image*/
+    background-size: cover; /* Resize the background image to cover the enitre container*/
+    
+}
+
+.title{
+    color: rgb(197, 47, 172);
+}
+table, th, td{
+    border: 1px solid;
+    background-color:rgb(238, 233, 223);
+    font-size:x-large;
+
+    
+}
